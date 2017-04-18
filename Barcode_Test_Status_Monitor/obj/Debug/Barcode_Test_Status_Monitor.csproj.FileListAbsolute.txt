@@ -1,0 +1,9 @@
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\bin\Debug\Barcode_Test_Status_Monitor.exe
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\bin\Debug\Barcode_Test_Status_Monitor.pdb
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\obj\Debug\Barcode_Test_Status_Monitor.Properties.Resources.resources
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\obj\Debug\Barcode_Test_Status_Monitor.csproj.GenerateResource.Cache
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\obj\Debug\Barcode_Test_Status_Monitor.exe
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\obj\Debug\Barcode_Test_Status_Monitor.pdb
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\obj\Debug\Barcode_Test_Status_Monitor.frmMain.resources
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\obj\Debug\Barcode_Test_Status_Monitor.frmSetting.resources
+D:\Edward\Barcode_Test_Status_Monitor\Barcode_Test_Status_Monitor\bin\Debug\Barcode_Test_Status_Monitor.exe.config
